@@ -1,3 +1,8 @@
+# Gradle files
+.gradle
+out/
+build/
+
 # Compiled class file
 *.class
 
@@ -9,6 +14,9 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
+# intelliJ 
+.idea
 
 # Package Files #
 *.jar
